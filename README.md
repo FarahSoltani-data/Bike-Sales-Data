@@ -27,3 +27,6 @@ link to the dachaboard :
 https://github.com/FarahSoltani-data/Bike-Sales-Data/blob/0edc2507322571f69486ed9a644ece9e8c2f2543/bikes%20Sales%20Dachboard.png
 
 
+the dachboard :
+<img width="716" alt="bikes Sales Dachboard" src="https://github.com/user-attachments/assets/a6e409f7-8284-4e34-98d4-6a94e0ed41d1" />
+
